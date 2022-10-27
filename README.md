@@ -40,7 +40,7 @@
 
 ### * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
-#### Como se evidencia en la salida al documento txt del código, el número de votos y el porcentaje del total de votos que obtuvo cada candidato es el siguiente:
+#### As evidenced in the output to the txt document of the code, the number of votes and the percentage of the total votes that each candidate obtained is as follows:
 
     Charles Casper Stockham: 23,0% (85.213)
 
@@ -48,7 +48,7 @@
 
     Raymon Anthony Doane: 3,1% (11.606)
 
-#### Esto se calculó, como puede ver en el código, agregando un voto por cada vez que se emitió un voto por el candidato en específico (Stockham, DeGette y Doane). Luego, este número se dividió por el total de votos calculado anteriormente para obtener el porcentaje de votos que obtuvo cada candidato del total de votos.
+#### This was calculated, as you can see in the code, by adding one vote for each time a vote was cast for the specific candidate (Stockham, DeGette, and Doane). This number was then divided by the total votes calculated above to obtain the percentage of votes each candidate received out of the total votes.
 
 ![5](https://github.com/jjgomezg17/Election_Analysis/blob/main/Resources/Images/5.png)
 
