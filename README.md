@@ -10,13 +10,13 @@
 
 ### The following python code was used to perform the different calculations requested by the election committee. It should be taken into account for the subsequent analysis in the following bullet points.
 
-(imagen 1)
+![1](https://github.com/jjgomezg17/Election_Analysis/blob/main/Resources/Images/1.png)
 
 ### * How many votes were cast in this congressional election?
 
 #### The total number of votes counted in the election was 369,711 votes, as can be seen in the following code output. This number was calculated by adding 1 to the total vote count for each row in the csv of the election results, as is evident from the code in the total_votes variable.
 
-(imagen 2)
+![2](https://github.com/jjgomezg17/Election_Analysis/blob/main/Resources/Images/2.png)
 
 ### * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
@@ -30,13 +30,13 @@
 
 #### This was calculated as you can see in the code by adding a vote for each time vote was cast in the specific county (Jefferson, Denver and Arapahoe). Then, this number was divided by the total votes calculated above to obtain the percentage of votes that each county obtained of the total votes.
 
-(imagen 3)
+![3](https://github.com/jjgomezg17/Election_Analysis/blob/main/Resources/Images/3.png)
 
 ### * Which county had the largest number of votes?
 
 #### The county with the highest number of votes was Denver. This, as can be seen in the code, was calculated by means of an if function to verify that both the number of votes and the percentage of these with respect to the total was the highest.
 
-(imagen 4)
+![4](https://github.com/jjgomezg17/Election_Analysis/blob/main/Resources/Images/4.png)
 
 ### * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
@@ -50,13 +50,13 @@
 
 #### Esto se calculó, como puede ver en el código, agregando un voto por cada vez que se emitió un voto por el candidato en específico (Stockham, DeGette y Doane). Luego, este número se dividió por el total de votos calculado anteriormente para obtener el porcentaje de votos que obtuvo cada candidato del total de votos.
 
-(imagen 5)
+![5](https://github.com/jjgomezg17/Election_Analysis/blob/main/Resources/Images/5.png)
 
 ### * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
 #### The candidate who won was Diana DeGette, with a total of 272,892 votes and a percentage of the total votes of 73.8%. This was calculated, as you can see in the code, with an if function to obtain the candidate with the most votes compared to the other candidates and also the highest percentage.
 
-(imagen 6)
+![6](https://github.com/jjgomezg17/Election_Analysis/blob/main/Resources/Images/6.png)
 
 
 ## Election-Audit Summary
