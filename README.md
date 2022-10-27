@@ -1,12 +1,12 @@
 # Election Audit Challenge
 
-## Overview of Election Audi
+## Overview of Election Audit
 
 ### Purpose of this election audit analysis
 
 #### Help the elections commission, who have asked for help to include different calculations. Among these calculations would be the voter turnout for each county, the percentage of votes from each county out of the total count and the county with the highest turnout. This would be done by means of for loops in python accessing the election result file (csv) and writing the results to a txt file, analyzing the calculations that were made in this file.
 
-## Election-Audit Results
+## Election Audit Results
 
 ### The following python code was used to perform the different calculations requested by the election committee. It should be taken into account for the subsequent analysis in the following bullet points.
 
